@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3478c3b76ab81d34eb254608519251e4
+  - enabled: 1
+    path: Assets/Scenes/Lab 01 - Setup.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Lab 02 - Hands and Controller.unity
+    guid: 91e05c212990ff54aaa27e89e64bc77e
+  - enabled: 1
+    path: Assets/Scenes/Lab 03 - Hands and Controller and Passthrough.unity
+    guid: ac62f3921a28eb64198c21b64f77ff22
+  - enabled: 1
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/76.0.0/Example Scenes/ConcurrentHandsControllersExamples.unity"
+    guid: 10824ac1a08b9a0459de4c071e1db2aa
+  - enabled: 1
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/76.0.0/Example Scenes/ComprehensiveRigExample.unity"
+    guid: 2efe93cb8972cae439bfba2dcd4165f0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bca4498dfac0b204f91b2e7fa3b4d0b5,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5800ea889fc96ad4a8d0f02590ac5842,
+      type: 2}
